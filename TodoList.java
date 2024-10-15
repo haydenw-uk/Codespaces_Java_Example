@@ -22,7 +22,7 @@ public class TodoList {
     }
 
     public void remove(int index){
-        //implement code to remove item from list
+        items.remove(index);
     }
 
 }
